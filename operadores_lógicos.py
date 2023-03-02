@@ -36,6 +36,3 @@ operación = not (m > n) # False
 operación_2 = not (m < n) # True
 
 print(operación_2)
-
-
-https://es.wikipedia.org/wiki/L%C3%B3gica_binaria
